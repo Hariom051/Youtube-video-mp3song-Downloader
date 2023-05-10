@@ -1,0 +1,16 @@
+body{
+  background-image: url(image.jpg);
+  object-fit:cover;
+}
+#url{
+  height: 55px;
+  width:50vw;
+  /* position: absolute;
+  left:2vw; */
+  margin-left:20px;
+  border-radius: 14px;
+  border-color:white;
+}
+#url:focus{
+  
+}
